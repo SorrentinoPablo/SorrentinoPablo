@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <div align="center">
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://github.com/SorrentinoPablo/SorrentinoPablo/assets/160888432/a5457b91-5898-4bbd-b866-fb0ed3148030" width="320" alt="System_screen"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="https://github.com/SorrentinoPablo/MTJ_Project" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>

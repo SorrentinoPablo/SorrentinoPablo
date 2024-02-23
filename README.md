@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p> Low-level programming project aimed at integrating an <strong>Analog-to-Digital Converter</strong> (ADC) with an FPGA. This involved intricate <strong>programming at the hardware level</strong> to reduce the <strong>energy consumption</strong> and integration between the FPGA and the sensor, ensuring accurate data acquisition and processing. </p>
+<p> Verilog project aimed at integrating an <strong>Analog-to-Digital Converter</strong> (ADC) with an Xilinx FPGA. This involved intricate <strong>programming at the hardware level</strong> to reduce the <strong>energy consumption</strong> and integration between the FPGA and a potentiometer, ensuring accurate data acquisition and processing. </p>
 </div>
                                                                                 
 </td>  

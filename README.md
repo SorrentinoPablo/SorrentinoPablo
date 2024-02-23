@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
 ![Banner de LinkedIn  Azul Ilustrado Tecnología](https://github.com/SorrentinoPablo/SorrentinoPablo/assets/160888432/f54dc7ba-5251-4a5a-873b-3e491b8c687d)
 -->
 ![Banner de LinkedIn  Azul Ilustrado Tecnología](https://github.com/SorrentinoPablo/SorrentinoPablo/assets/160888432/f54dc7ba-5251-4a5a-873b-3e491b8c687d)
@@ -22,7 +23,7 @@ Here are some ideas to get you started:
 - Electronic engineer with a strong background in microfabrication and embedded systems.
 - Proficient in C/C++, Python, and VHDL programming languages.
 - Experienced in working with real-time operating systems and FPGA development.
-- 📗 Master Thesis: "Microfabrication, Characterization, and Electronic Periphery of Magnetic Field Sensors"
+- 📗 Master Thesis: "[Microfabrication, Characterization, and Electronic Periphery of Magnetic Field Sensors](https://drive.google.com/drive/folders/1jtdCVOopYbsi6a4BeR5VrzK96IoX-gXk?usp=drive_link)"
 <br>
 
 ## Projects

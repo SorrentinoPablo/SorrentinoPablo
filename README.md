@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <td width="50%">
 <h3 align="center">Receiver Development for Magnetic Field Sensor in RTOS Environment</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://github.com/SorrentinoPablo/SorrentinoPablo/assets/160888432/a5457b91-5898-4bbd-b866-fb0ed3148030" width="350" alt="System_screen"></a>
+<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://github.com/SorrentinoPablo/SorrentinoPablo/assets/160888432/a5457b91-5898-4bbd-b866-fb0ed3148030" width="320" alt="System_screen"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 <td width="50%">
 <h3 align="center">Temperature Sensor Integration with CAN BUS Protocol</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://github.com/SorrentinoPablo/SorrentinoPablo/assets/160888432/2ea994fe-bef0-4c8d-bd16-98730cb65234" width="350" alt="Auto_system"></a>
+<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://github.com/SorrentinoPablo/SorrentinoPablo/assets/160888432/2ea994fe-bef0-4c8d-bd16-98730cb65234" width="300" alt="Auto_system"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">

@@ -33,8 +33,7 @@ Here are some ideas to get you started:
 <div align="center">
 <a href="https://github.com/SorrentinoPablo/MTJ_Project" target="_blank"><img src="https://github.com/SorrentinoPablo/SorrentinoPablo/assets/160888432/a5457b91-5898-4bbd-b866-fb0ed3148030" width="320" alt="System_screen"></a>
 <p>
-<a href="https://github.com/SorrentinoPablo/MTJ_Project" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+
 </a>
 </p>
 <p> Developing a receiver system tailored for <strong>magnetic field sensors</strong> previously microfabricated within a <strong>real-time operating system</strong> (RTOS) environment in an <strong>STM32</strong> board using its <strong>DMA</strong>, aimed at enhancing data acquisition and processing efficiency. </p>
@@ -48,8 +47,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/SorrentinoPablo/HAS_Project" target="_blank"><img src="https://github.com/SorrentinoPablo/SorrentinoPablo/assets/160888432/26c454ad-5a7e-4d27-bc2b-814b24b87d3d" width="350" alt="Auto_system"></a>
 <br>
 <p>
-<a href="https://github.com/SorrentinoPablo/HAS_Project" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+
 </a>
 </p>
 </p>Undertaking software and <strong>firmware</strong> development to create an integrated <strong>home automation</strong> system, featuring functionalities such as <strong>temperature sensing, LED control, and motor operation</strong> for enhanced convenience and efficiency.</p>
@@ -65,8 +63,7 @@ Here are some ideas to get you started:
 <div align="center">
 <a href="https://github.com/SorrentinoPablo/T-CAN_Project" target="_blank"><img src="https://github.com/SorrentinoPablo/SorrentinoPablo/assets/160888432/2ea994fe-bef0-4c8d-bd16-98730cb65234" width="300" alt="Auto_system"></a>
 <p>
-<a href="https://github.com/SorrentinoPablo/T-CAN_Project" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+
 </a>
 </p>
 <p>Firmware development project involving the integration of a temperature sensor into a <strong>Controller Area Network</strong> (CAN) using an SPI to CAN transceiver, all powered by an STM32 microcontroller from the M4 series. This endeavor required <strong>hardware design and firmware programming</strong> to achieve communication and reliable operation too.</p>
@@ -78,8 +75,7 @@ Here are some ideas to get you started:
 <div align="center">
 <a href="https://github.com/SorrentinoPablo/FPGA_ADC_Project" target="_blank"><img src="https://github.com/SorrentinoPablo/SorrentinoPablo/assets/160888432/24db5f43-cbad-4143-a0cb-3038b2ab7065" width="350" alt="Auto_system"></a>
 <p>
-<a href="https://github.com/SorrentinoPablo/FPGA_ADC_Project" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+
 </a>
 </p>
 <p> Verilog project aimed at integrating an <strong>Analog-to-Digital Converter</strong> (ADC) with an Xilinx FPGA. This involved intricate <strong>programming at the hardware level</strong> to reduce the <strong>energy consumption</strong> and integration between the FPGA and a potentiometer, ensuring accurate data acquisition and processing. </p>

@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - Proficient in C/C++, Python, and VHDL programming languages.
 - Experienced in working with real-time operating systems and FPGA development.
 - 📗 Master Thesis: "[Microfabrication, Characterization, and Electronic Signal Conditioning of Magnetic Field Sensors]()"
+- [Scholar](https://scholar.google.com/citations?user=QcFQKtkAAAAJ&hl=nl&oi=ao)
 <br>
 
 ## Projects

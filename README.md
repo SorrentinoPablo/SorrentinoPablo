@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - Electronic engineer with a strong background in microfabrication and embedded systems.
 - Proficient in C/C++, Python, and VHDL programming languages.
 - Experienced in working with real-time operating systems and FPGA development.
-- 📗 Master Thesis: "[Microfabrication, Characterization, and Electronic Signal Conditioning of Magnetic Field Sensors]()"
+- 📗 Thesis: "[Microfabrication, Characterization, and Electronic Signal Conditioning of Magnetic Field Sensors]()"
 - [Google Scholar](https://scholar.google.com/citations?user=QcFQKtkAAAAJ&hl=nl&oi=ao)
 <br>
 

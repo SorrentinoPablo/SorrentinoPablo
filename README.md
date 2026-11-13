@@ -2,7 +2,7 @@
   <img src="assets/github-banner.png" alt="Pablo Sorrentino - Hardware Security and Neuromorphic Computing" width="100%">
 </p>
 
-## About Me
+## About Me 
 
 I am an **Electronic Engineer and PhD researcher at the University of Groningen**, affiliated with the **Bernoulli Institute and CogniGron** in the Netherlands.
 

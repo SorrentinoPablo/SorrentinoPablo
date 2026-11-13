@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="assets/github-banner.png" alt="Pablo Sorrentino - Hardware Security and Neuromorphic Computing" width="100%">
 </p>

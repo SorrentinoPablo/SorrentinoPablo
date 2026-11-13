@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SorrentinoPablo/SorrentinoPablo/main/assets/github-banner-v2.png" alt="Pablo Sorrentino - Research Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/SorrentinoPablo/SorrentinoPablo/main/assets/github-banner.png" alt="Pablo Sorrentino - Research Banner" width="100%">
 </p>
 
 ## About Me 

@@ -1,89 +1,128 @@
-<!--
-**SorrentinoPablo/SorrentinoPablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-![Banner de LinkedIn  Azul Ilustrado Tecnología](https://github.com/SorrentinoPablo/SorrentinoPablo/assets/160888432/f54dc7ba-5251-4a5a-873b-3e491b8c687d)
--->
-![Banner de LinkedIn  Azul Ilustrado Tecnología](https://github.com/SorrentinoPablo/SorrentinoPablo/assets/160888432/f54dc7ba-5251-4a5a-873b-3e491b8c687d)
-
-
-
-## About me
-- Electronic engineer with a strong background in microfabrication and embedded systems.
-- Proficient in C/C++, Python, and VHDL programming languages.
-- Experienced in working with real-time operating systems and FPGA development.
-- 📗 Thesis: "[Microfabrication, Characterization, and Electronic Signal Conditioning of Magnetic Field Sensors]()"
-- [Google Scholar](https://scholar.google.com/citations?user=QcFQKtkAAAAJ&hl=nl&oi=ao)
-<br>
-
-## Projects
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Receiver Development for Magnetic Field Sensor in RTOS Environment</h3>
-<div align="center">
-<a href="https://github.com/SorrentinoPablo/MTJ_Project" target="_blank"><img src="https://github.com/SorrentinoPablo/SorrentinoPablo/assets/160888432/a5457b91-5898-4bbd-b866-fb0ed3148030" width="320" alt="System_screen"></a>
-<p>
-
-</a>
+<p align="center">
+  <img src="assets/github-banner.png" alt="Pablo Sorrentino - Hardware Security and Neuromorphic Computing" width="100%">
 </p>
-<p> Developing a receiver system tailored for <strong>magnetic field sensors</strong> previously microfabricated within a <strong>real-time operating system</strong> (RTOS) environment in an <strong>STM32</strong> board using its <strong>DMA</strong>, aimed at enhancing data acquisition and processing efficiency. </p>
-</div>
-                                                                                   
-</td>
-<td width="50%">
-<br>
-<h3 align="center">Home Automation System</h3>
-<div align="center">                                       
-<a href="https://github.com/SorrentinoPablo/HAS_Project" target="_blank"><img src="https://github.com/SorrentinoPablo/SorrentinoPablo/assets/160888432/26c454ad-5a7e-4d27-bc2b-814b24b87d3d" width="350" alt="Auto_system"></a>
-<br>
-<p>
 
+## About Me
+
+I am an **Electronic Engineer and PhD researcher at the University of Groningen**, affiliated with the **Bernoulli Institute and CogniGron** in the Netherlands.
+
+My research focuses on the intersection of **Hardware Security, Machine Learning Security, and Neuromorphic Computing**, with particular interest in the security and privacy challenges introduced by emerging computing architectures.
+
+I work across hardware and software, investigating how novel computing technologies introduce new attack surfaces and how their security can be evaluated and improved.
+
+My background also includes microfabrication, embedded systems, FPGA development, and low-level programming.
+
+## Research Interests
+
+- **Hardware Security:** Side-channel analysis, fault injection, hardware Trojans, and hardware-level countermeasures.
+- **Machine Learning Security & Privacy:** Adversarial attacks, backdoor attacks, membership inference, and model inversion.
+- **Neuromorphic Computing:** Spiking Neural Networks (SNNs), brain-inspired architectures, and event-driven computation.
+- **Emerging Hardware:** Memristive devices, in-memory computing, and emerging memory technologies.
+- **Hardware Security Primitives:** Physical Unclonable Functions (PUFs), True Random Number Generators (TRNGs), and their integration with emerging architectures.
+
+## Research & Publications
+
+### Emerging Threats and Countermeasures in Neuromorphic Systems: A Survey (2026)
+
+A comprehensive survey investigating hardware and software security threats in neuromorphic and in-memory computing systems.
+
+The work examines security challenges involving SNNs, memristive architectures, side-channel and fault attacks, adversarial machine learning, privacy attacks, and emerging hardware security primitives.
+
+**Resources:**
+
+- [Paper — arXiv](https://arxiv.org/abs/2601.16589)
+- [Companion Repository — Security and Privacy in Neuromorphic Computing](https://github.com/SorrentinoPablo/Survey_Security_Privacy_Neuromorphic_Computing)
+
+### Current Research Directions
+
+My ongoing research explores security and privacy in neuromorphic systems, with an emphasis on:
+
+- Side-channel analysis and fault injection involving SNNs and conventional computing hardware.
+- Privacy and backdoor attacks in spiking neural networks.
+- The intersection of memristive computing, PUFs, TRNGs, and hardware security.
+- The potential of neuromorphic computing as a tool for security analysis.
+
+---
+
+## Engineering Projects
+
+Before focusing on neuromorphic and hardware security research, I worked on several embedded systems, electronics, and FPGA projects.
+
+<details>
+<summary><b>View Previous Engineering Projects</b></summary>
+
+### Receiver Development for Magnetic Field Sensors
+
+<a href="https://github.com/SorrentinoPablo/MTJ_Project">
+  <img src="https://github.com/SorrentinoPablo/SorrentinoPablo/assets/160888432/a5457b91-5898-4bbd-b866-fb0ed3148030" width="350" alt="Magnetic field sensor receiver">
 </a>
-</p>
-</p>Undertaking software and <strong>firmware</strong> development to create an integrated <strong>home automation</strong> system, featuring functionalities such as <strong>temperature sensing, LED control, and motor operation</strong> for enhanced convenience and efficiency.</p>
-</div>                                                             
-</table>                                                                                 
-</div>
-<br>
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Temperature Sensor Integration with CAN BUS Protocol</h3>
-<div align="center">
-<a href="https://github.com/SorrentinoPablo/T-CAN_Project" target="_blank"><img src="https://github.com/SorrentinoPablo/SorrentinoPablo/assets/160888432/2ea994fe-bef0-4c8d-bd16-98730cb65234" width="300" alt="Auto_system"></a>
-<p>
+Development of a data acquisition and processing system for microfabricated magnetic field sensors, using an STM32 microcontroller, DMA, and a real-time operating system (RTOS).
 
+**Technologies:** STM32, C/C++, RTOS, DMA, Embedded Systems.
+
+[View Repository](https://github.com/SorrentinoPablo/MTJ_Project)
+
+---
+
+### Home Automation System
+
+<a href="https://github.com/SorrentinoPablo/HAS_Project">
+  <img src="https://github.com/SorrentinoPablo/SorrentinoPablo/assets/160888432/26c454ad-5a7e-4d27-bc2b-814b24b87d3d" width="350" alt="Home automation system">
 </a>
-</p>
-<p>Firmware development project involving the integration of a temperature sensor into a <strong>Controller Area Network</strong> (CAN) using an SPI to CAN transceiver, all powered by an STM32 microcontroller from the M4 series. This endeavor required <strong>hardware design and firmware programming</strong> to achieve communication and reliable operation too.</p>
-</div>                                                                              
-</td>       
 
-<td width="50%">
-<h3 align="center">Low-Level FPGA Programming for ADC functions</h3>
-<div align="center">
-<a href="https://github.com/SorrentinoPablo/FPGA_ADC_Project" target="_blank"><img src="https://github.com/SorrentinoPablo/SorrentinoPablo/assets/160888432/24db5f43-cbad-4143-a0cb-3038b2ab7065" width="350" alt="Auto_system"></a>
-<p>
+Development of an embedded home automation system integrating temperature sensing, LED control, and motor operation through firmware and hardware design.
 
+**Technologies:** Embedded Systems, C/C++, Sensors, Firmware.
+
+[View Repository](https://github.com/SorrentinoPablo/HAS_Project)
+
+---
+
+### Temperature Sensor Integration with CAN Bus
+
+<a href="https://github.com/SorrentinoPablo/T-CAN_Project">
+  <img src="https://github.com/SorrentinoPablo/SorrentinoPablo/assets/160888432/2ea994fe-bef0-4c8d-bd16-98730cb65234" width="350" alt="CAN Bus temperature sensor">
 </a>
-</p>
-<p> Verilog project aimed at integrating an <strong>Analog-to-Digital Converter</strong> (ADC) with an Xilinx FPGA. This involved intricate <strong>programming at the hardware level</strong> to reduce the <strong>energy consumption</strong> and integration between the FPGA and a potentiometer, ensuring accurate data acquisition and processing. </p>
-</div>
-                                                                                
-</td>  
-</table>                                                                                 
-</div>
-<br>
+
+Integration of a temperature sensor into a Controller Area Network (CAN) using an SPI-to-CAN transceiver and an STM32 Cortex-M4 microcontroller.
+
+**Technologies:** STM32, CAN Bus, SPI, Embedded C, Firmware.
+
+[View Repository](https://github.com/SorrentinoPablo/T-CAN_Project)
+
+---
+
+### Low-Level FPGA Programming for ADC Integration
+
+<a href="https://github.com/SorrentinoPablo/FPGA_ADC_Project">
+  <img src="https://github.com/SorrentinoPablo/SorrentinoPablo/assets/160888432/24db5f43-cbad-4143-a0cb-3038b2ab7065" width="350" alt="FPGA ADC integration">
+</a>
+
+Hardware-level implementation of Analog-to-Digital Converter (ADC) interfacing on an Xilinx FPGA, focusing on data acquisition, hardware integration, and energy-efficient operation.
+
+**Technologies:** FPGA, Verilog, ADC, Digital Design.
+
+[View Repository](https://github.com/SorrentinoPablo/FPGA_ADC_Project)
+
+</details>
+
+---
+
+## Technical Background
+
+**Programming:** Python, C/C++, VHDL, Verilog
+
+**Hardware & Embedded Systems:** FPGA, STM32, RTOS, Microcontrollers, Digital Electronics
+
+**Research Areas:** Neuromorphic Computing, Spiking Neural Networks, Hardware Security, Machine Learning Security, In-Memory Computing
+
+## Contact & Academic Profiles
+
+- **University:** University of Groningen, Netherlands
+- **Research:** Bernoulli Institute / CogniGron
+- **Email:** [p.f.a.sorrentino@rug.nl](mailto:p.f.a.sorrentino@rug.nl)
+- **Google Scholar:** [Academic Profile](https://scholar.google.com/citations?user=QcFQKtkAAAAJ&hl=en)
+
+I am open to research discussions and collaborations involving hardware security, neuromorphic computing, and machine learning security.
